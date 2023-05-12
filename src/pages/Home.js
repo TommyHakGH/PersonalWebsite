@@ -16,7 +16,29 @@ function Home() {
           <GitHubIcon />
           </div>
       </div>
-      <div className= "skills"></div>
+      <div className= "skills">
+        <h1>Skills</h1>
+        <ol className="list">
+          <li className="item">
+            <h2>Front-End</h2>
+            <span>
+              ReactJS, HTML, CSS, React Native, NPM, Material UI,
+              Yarn, BootStrap, Style Componenets, Angular, JavaScript
+            </span>
+          </li>
+          <li className="item">
+            <h2>Back-End</h2>
+            <span>
+              NodeJS, Java Spring, ExpressJS, MySQL, 
+              MongoDB
+            </span>
+          </li>
+          <li className="item">
+            <h2> Languages </h2>
+            <span> JavaScript, Java, Python, C#, C, TypeScript</span>
+          </li>
+        </ol>
+      </div>
     </div>
   )
 }
