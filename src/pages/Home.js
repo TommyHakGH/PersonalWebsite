@@ -13,9 +13,9 @@ function Home() {
           a completed degree in Bachelors of Science in Informatics with a concentration in Information Technology 
           from the State University at Albany. Aiming to use my skills and knowledge on Coding, Programming, 
           IT, and Web design to satisfy the role in your company.  </p> 
-          <LinkedInIcon />
-          <EmailIcon />
-          <GitHubIcon />
+          <LinkedInIcon onClick= {event => window.location.href='https://www.linkedin.com/in/tommy-hak-716619253/'}/>
+          <EmailIcon onClick= {event => window.location.href='https://mail.google.com/mail/?view=cm&fs=1&to=tommys.hak@gmail.com'}/>
+          <GitHubIcon onClick = {event => window.location.href='https://github.com/TommyHakGH?tab=repositories'}/>
           </div>
       </div>
       <div className= "skills">
