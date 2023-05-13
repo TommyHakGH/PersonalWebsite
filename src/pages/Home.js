@@ -12,7 +12,7 @@ function Home() {
         <div className= "career objective prompt"> <p>Enthusiastic and passionate individual with
           a completed degree in Bachelors of Science in Informatics with a concentration in Information Technology 
           from the State University at Albany. Aiming to use my skills and knowledge on Coding, Programming, 
-          IT, and Web design to satisfy the role in your company.  </p> 
+          IT, and Web design to satisfy the role in you r company.  </p> 
           <LinkedInIcon cursor= 'pointer' pointer onClick= {event => window.location.href='https://www.linkedin.com/in/tommy-hak-716619253/'}/>
           <EmailIcon cursor= 'pointer' onClick= {event => window.location.href='https://mail.google.com/mail/?view=cm&fs=1&to=tommys.hak@gmail.com'}/>
           <GitHubIcon cursor= 'pointer' onClick = {event => window.location.href='https://github.com/TommyHakGH?tab=repositories'}/>
