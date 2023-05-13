@@ -9,9 +9,10 @@ function Home() {
     <div className= "home">
       <div className= "about">
         <h2> Hi, My Name is Tommy </h2>
-        <div className= "career objective prompt"> <p>Enthusiastic and passionate individual working towards 
-          a completed Bachelors of Science degree from the State University at Albany. Aiming to use my skills 
-          and knowledge on Coding, Programming, IT, and Web design to satisfy the role in your company.  </p> 
+        <div className= "career objective prompt"> <p>Enthusiastic and passionate individual with
+          a completed degree in Bachelors of Science in Informatics with a concentration in Information Technology 
+          from the State University at Albany. Aiming to use my skills and knowledge on Coding, Programming, 
+          IT, and Web design to satisfy the role in your company.  </p> 
           <LinkedInIcon />
           <EmailIcon />
           <GitHubIcon />
