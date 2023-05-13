@@ -15,6 +15,9 @@ function ProjectDisplay() {
         <b>Skills:</b> {project.skills}
       </p>
       <GitHubIcon />
+      <p>
+        <b>RepositoryLink:</b> {project.Link}
+      </p>
     </div>
   );
 }

@@ -6,10 +6,12 @@ import Proj2 from "../assets/Proj2.png";
             name: "CSGO Website",
             image: Proj1,
             skills: "JavaScript, HTML, CSS",
+            Link: "https://github.com/TommyHakGH/CSGOproject",
         },
         {
             name: "Skateboarding Website",
             image: Proj2,
             skills: "JavaScript, HTML, CSS",
+            Link: "https://github.com/TommyHakGH/Skateboardproject",
         },
     ];
