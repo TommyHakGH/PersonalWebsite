@@ -1,5 +1,5 @@
 import './App.css';
-import React from 'react';
+import React, {useState} from 'react';
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Home from './pages/Home';
 import Projects from './pages/Projects';
@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import ProjectDisplay from "./pages/ProjectDisplay";
 
 function App() {
+  
   return (
   <div className="App">
     <Router>
