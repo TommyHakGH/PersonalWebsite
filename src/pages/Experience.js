@@ -12,7 +12,7 @@ function Experience() {
         <VerticalTimelineElement 
         className= "vertical-timeline-element--education" 
         date="2016 - 2023"
-        iconStyle={{background: "3e497a", color: "#fff"}}
+        iconStyle={{background: "#46166B", color: "#EEC05C"}}
         icon = {<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title"> 
@@ -28,7 +28,7 @@ function Experience() {
         <VerticalTimelineElement 
         className= "vertical-timeline-element--education" 
         date="2018 - 2021"
-        iconStyle={{background: "3e497a", color: "#fff"}}
+        iconStyle={{background: "#000000", color: "#fff"}}
         icon = {<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title"> 
@@ -45,7 +45,7 @@ function Experience() {
         <VerticalTimelineElement 
         className= "vertical-timeline-element--education" 
         date="2019 - 2021"
-        iconStyle={{background: "3e497a", color: "#fff"}}
+        iconStyle={{background: "#2A4734", color: "#fff"}}
         icon = {<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title"> 
@@ -60,14 +60,14 @@ function Experience() {
         <VerticalTimelineElement 
         className= "vertical-timeline-element--education" 
         date="2019 - Present"
-        iconStyle={{background: "3e497a", color: "#fff"}}
+        iconStyle={{background: "#3e497a", color: "#FF0000"}}
         icon = {<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title"> 
           Great Connections - Freelance Webdesigner Consultant/ WebDeveloper
           </h3>
           <p>
-            2019-2022, website redesign consultant, currently overseeing redesign and development of final website
+            2019-2022 website redesign consultant. Presently overseeing redesign and development of final website
           </p>
 
         </VerticalTimelineElement>

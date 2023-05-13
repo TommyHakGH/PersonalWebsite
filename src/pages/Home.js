@@ -31,7 +31,7 @@ function Home() {
             <h2>Back-End</h2>
             <span>
               NodeJS, Java Spring, ExpressJS, MySQL, 
-              MongoDB
+              MongoDB, Ruby on Rails
             </span>
           </li>
           <li className="item">
